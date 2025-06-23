@@ -7,41 +7,48 @@ Hi, I'm Amit — a passionate Java Full Stack Developer and Computer Engineering
 
 ## 🚀 Projects (Private Repositories)
 
-Here are some of the key full-stack projects I’ve worked on. These repositories are private due to internship policies or security, but feel free to DM me on [LinkedIn](https://www.linkedin.com/in/amit-mandlik-630544207/) if you're interested in collaborating or want to learn more!
+Here are some of the key full-stack projects I’ve built. These repositories are private by choice to protect code quality, architecture, and originality. Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/amit-mandlik-630544207/) if you're interested in collaboration, discussion, or a demo!
 
-### 🔐 Express Bus Reservation System
+---
+
+### 🔐 Express Bus Reservation System  
 **Tech Stack:** Java, JSP, Servlets, MySQL  
-Web app with role-based login (Admin, Operator, Passenger), ticket booking, cancellation, and history features using MVC architecture.
+A complete role-based web application for online bus ticket booking. Includes ticket management, booking history, and admin/operator functionality built using the MVC pattern.
 
 ---
 
-### 🔐 Personal Finance Manager *(EY GDS Internship Project)*
+### 🔐 Personal Finance Manager *(EY GDS Internship Project)*  
 **Tech Stack:** React.js, Node.js, MongoDB  
-Finance tracking dashboard for income & expenses with graphs and filters. Built during a mentor-led internship.
+Budgeting platform to track income and expenses with interactive charts and user-friendly UI. Developed during a 12-day mentor-led internship.
 
 ---
 
-### 🔐 FarmEquip – Equipment & Labor Booking Platform
+### 🔐 FarmEquip – Equipment & Labor Booking Platform  
 **Tech Stack:** React, Spring Boot, MySQL, Gemini API, Twilio  
-Platform to book agricultural equipment and labor. Includes voice assistant, chatbot, calendar booking, and farmer community features.
+Platform for farmers to book equipment or labor. Includes multilingual support, real-time notifications, voice assistant, AI chatbot, and feedback system.
 
 ---
 
-### 🔐 Driver Drowsiness Detection
+### 🔐 Driver Drowsiness Detection  
 **Tech Stack:** Python, OpenCV, Flask, Twilio  
-Detects drowsiness using eye & mouth landmarks, sends real-time alerts via SMS, and logs data in a dashboard.
+Detects driver fatigue using facial landmarks. Sends real-time SMS alerts, logs data, and generates drowsiness graphs for analysis.
 
 ---
 
-### 🔐 AdopTree – Tree Plantation Tracker
+### 🔐 AdopTree – Tree Plantation Tracker  
 **Tech Stack:** React, Spring Boot, MySQL, Tailwind CSS  
-A system to promote and track tree plantation efforts with geo-tagging, donation system, and event management.
+Tree plantation tracking platform with geo-tagging, milestone rewards, event management, and community engagement features.
 
 ---
 
-💬 **Want to know more or contribute?**  
-DM me on LinkedIn — happy to collaborate or walk you through any of these projects!
+### 🔐 College Preference List Generator  
+**Tech Stack:** Python, Flask, SQLite, HTML, CSS, JavaScript  
+A web-based tool that helps students generate a personalized college preference list based on MHT-CET or JEE percentile using past cutoff data.
 
+---
+
+💬 **Want to know more or contribute to any of these?**  
+**DM me on LinkedIn — I’d be happy to connect or walk you through the projects!**
 
 ## 💻 Tech Stack
 
