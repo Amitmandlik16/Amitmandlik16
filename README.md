@@ -5,6 +5,44 @@ Hi, I'm Amit — a passionate Java Full Stack Developer and Computer Engineering
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit__mandlik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amit-mandlik-630544207/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitmandlik111@gmail.com) 
 
+## 🚀 Projects (Private Repositories)
+
+Here are some of the key full-stack projects I’ve worked on. These repositories are private due to internship policies or security, but feel free to DM me on [LinkedIn](https://www.linkedin.com/in/amit-mandlik-630544207/) if you're interested in collaborating or want to learn more!
+
+### 🔐 Express Bus Reservation System
+**Tech Stack:** Java, JSP, Servlets, MySQL  
+Web app with role-based login (Admin, Operator, Passenger), ticket booking, cancellation, and history features using MVC architecture.
+
+---
+
+### 🔐 Personal Finance Manager *(EY GDS Internship Project)*
+**Tech Stack:** React.js, Node.js, MongoDB  
+Finance tracking dashboard for income & expenses with graphs and filters. Built during a mentor-led internship.
+
+---
+
+### 🔐 FarmEquip – Equipment & Labor Booking Platform
+**Tech Stack:** React, Spring Boot, MySQL, Gemini API, Twilio  
+Platform to book agricultural equipment and labor. Includes voice assistant, chatbot, calendar booking, and farmer community features.
+
+---
+
+### 🔐 Driver Drowsiness Detection
+**Tech Stack:** Python, OpenCV, Flask, Twilio  
+Detects drowsiness using eye & mouth landmarks, sends real-time alerts via SMS, and logs data in a dashboard.
+
+---
+
+### 🔐 AdopTree – Tree Plantation Tracker
+**Tech Stack:** React, Spring Boot, MySQL, Tailwind CSS  
+A system to promote and track tree plantation efforts with geo-tagging, donation system, and event management.
+
+---
+
+💬 **Want to know more or contribute?**  
+DM me on LinkedIn — happy to collaborate or walk you through any of these projects!
+
+
 ## 💻 Tech Stack
 
 ### 🚀 Proficient
